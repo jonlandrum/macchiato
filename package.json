@@ -31,7 +31,7 @@
   "config": {
     "forge": {
       "packagerConfig": {
-        "icon": "nuvola-relax.png"
+        "icon": "hot_beverage.ico"
       },
       "makers": [
         {
