@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>console</headerType>
+  <jar>C:\Users\jlandrum\src\macchiato\build\libs\macchiato-1.0-SNAPSHOT.jar</jar>
+  <outfile>C:\Users\jlandrum\src\macchiato\build\macchiato.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>https://jdk.java.net/</downloadUrl>
+  <supportUrl>https://github.com/jonlandrum/macchiato/issues</supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>true</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\jlandrum\src\macchiato\src\main\resources\hot_beverage.ico</icon>
+  <singleInstance>
+    <mutexName>macchiato</mutexName>
+    <windowTitle></windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.5</minVersion>
+    <maxVersion>1.8</maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+</launch4jConfig>
