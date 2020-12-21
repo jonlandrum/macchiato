@@ -1,6 +1,12 @@
-build
 .gradle
 .idea
+.settings
+bin
+build
 gradle
+.classpath
+.project
 gradlew
 gradlew.bat
+*.log
+*.mutex
