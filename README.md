@@ -1,12 +1,11 @@
 # Macchiato ☕
 
-A Java program that keeps your computer awake. It works in one of two ways:
+A C++ program that keeps your computer awake. It works in one of two ways:
 
 * By occassionally entering a (generally) inocuous key (F15), or
 * By occassionally moving the mouse pointer slightly (one pixel)
 
-As it is impossible to predict every user's requirements, both options are included in the settings. The application
-defaults to the key press option. And because this is a Java application, almost all platforms are supported.
+As it is impossible to predict every user's requirements, both options are included in the settings; the default is the key press option. And because this program utilizes the Qt framework, almost all platforms are supported.
 
 ## License
 
