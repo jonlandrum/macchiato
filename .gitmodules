@@ -1,0 +1,13 @@
+[submodule "lib/noto-emoji"]
+    path = lib/noto-emoji
+    url = https://github.com/googlefonts/noto-emoji
+    shallow = true
+[submodule "lib/qautostart"]
+    path = lib/qautostart
+    url = https://github.com/b00f/qautostart
+    shallow = true
+[submodule "lib/qt5"]
+    path = lib/qt5
+    url = https://github.com/qt/qt5
+    shallow = true
+    branch = 5.15.2

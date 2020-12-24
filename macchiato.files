@@ -1,0 +1,12 @@
+.gitignore
+LICENSE.md
+README.md
+lib/qautostart/LICENSE
+lib/qautostart/README.md
+lib/qautostart/src/qautostart.cpp
+lib/qautostart/src/qautostart.h
+lib/qautostart/test/main.cpp
+lib/qautostart/test/testsuit.cpp
+lib/qautostart/test/testsuit.h
+src/macchiato.cpp
+src/macchiato.h
