@@ -24,4 +24,4 @@ this license can be found in the file [LICENSE.md](LICENSE.md).
 * The icon used for this program is the "hot beverage" emoji from
   the [Google Noto emoji set](https://github.com/googlefonts/noto-emoji), and is licensed under
   the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0). The source code for this icon is
-  included with this program in the file [emoji_u2615.svg](lib/noto-emoji/svg/emoji_u2615.svg).
+  included with this program in the file [lib/noto-emoji/svg/emoji_u2615.svg](lib/noto-emoji/svg/emoji_u2615.svg).
