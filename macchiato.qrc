@@ -1,0 +1,6 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>resources/emoji_u2615.png</file>
+    </qresource>
+</RCC>
